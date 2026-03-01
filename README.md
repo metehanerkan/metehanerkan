@@ -2,50 +2,66 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Metehan%20Erkan&fontSize=70&animation=twinkling" />
   
   <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profile%20views&color=0e76a8&style=flat" alt="Profile views" />
+  </p>
+
+  <p align="center">
     <strong>Software Engineer Enthusiast | Mobile & AI Solutions | Security Researcher</strong>
   </p>
 </div>
 
 ---
 
-### 🛠️ Genişletilmiş Teknoloji Yığını (Tech Stack)
+# 🔥 About Me
 
-| Kategori | Teknolojiler |
-| :--- | :--- |
-| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Mobil Geliştirme** | ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **AI & Veri Bilimi** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Web & Araçlar** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+* 🚀 **Software Engineering Enthusiast** with a deep passion for **Mobile & AI Development**. Always eager to build scalable and high-performance applications.
+* 🛠️ Experienced in **Clean Architecture (MVVM)**, improving UX/UI, and integrating machine learning models into mobile environments.
+* 💬 Open to discussions about **Android Architecture, AI Ethics, Cyber Security, and Backend Scalability**. Always looking for critical feedback to improve.
+* ⚙️ Optimized data processing and model training on **Intel i5-10300H** and **GTX 1650 Ti** hardware.
 
 ---
 
-### 🔍 Uzmanlık Alanları & İlgi Odakları
+# 🛠️ Technologies & Tools
 
-* **Mobile Architecture:** MVVM ve Clean Architecture prensipleriyle sürdürülebilir Android uygulamaları.
-* **LLM & Generative AI:** Yerel modellerin (Llama, Mistral) optimizasyonu ve uygulama seviyesinde entegrasyonu.
-* **Cybersecurity:** Ağ güvenliği, sızma testleri (Penetration Testing) ve güvenli kod geliştirme pratikleri.
-* **Performance Optimization:** Intel i5-10300H ve GTX 1650 Ti üzerinde yüksek performanslı veri işleme ve model eğitimi.
-
----
-
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark&hide=html,css" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
 ---
 
-### 📂 Öne Çıkan Projeler (Pinned Projects)
-* **Decision Wheel:** Kullanıcıların karar verme süreçlerini oyunlaştıran, AdMob ve gelişmiş UI bileşenleri içeren Android projesi.
-* **Portfolio V2:** Vercel üzerinde barındırılan, modern web teknolojileriyle harmanlanmış kişisel vitrin.
-* **AI Academy Projects:** Yapay Zeka ve Teknoloji Akademisi kapsamında geliştirilen makine öğrenmesi modelleri.
+# 📂 Featured Projects
+
+* 🎡 **Decision Wheel:** An Android app gamifying decision-making, featuring AdMob integration and advanced UI components.
+* 🌐 **Portfolio V2:** A modern personal showcase built with web technologies and hosted on Vercel.
+* 🤖 **AI Academy Projects:** Machine learning models developed as part of the Artificial Intelligence and Technology Academy.
 
 ---
 
-### 📫 İletişim & Sosyal Medya
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+---
+
+# 📫 Contact Me
+
 <p align="left">
 <a href="mailto:metehanerkan08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/metehan-erkan-b9a52a1b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/metehan-erkan-b9a52a1b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.metehandev.site/tr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
