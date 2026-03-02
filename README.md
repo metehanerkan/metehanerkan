@@ -1,51 +1,86 @@
-# Merhaba, Ben Metehan Erkan! 👋
+<h1 align="center">Merhaba, Ben Metehan Erkan! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Yapay+Zeka+%26+Makine+%C3%96%C4%9Frenimi;Web+%26+Android+Geli%C3%9Ftirme;Siber+G%C3%BCvenlik;Python+Geli%C3%9Ftiricisi)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Yapay+Zeka+%26+Makine+%C3%96%C4%9Frenimi;Web+%26+Android+Geli%C3%9Ftirme;Siber+G%C3%BCvenlik;Python+%26+Java+Geli%C3%9Ftiricisi" alt="Typing SVG" />
+</p>
 
-Sürekli yeni teknolojiler öğrenmeye ve kendimi geliştirmeye odaklıyım. Yapay zeka modellerinden mobil uygulamalara, web platformlarından siber güvenlik konseptlerine kadar geniş bir yelpazede teknik altyapımı güçlendiriyor ve üretim yapıyorum.
+<p align="center">
+  <a href="[LinkedIn-Linkin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[Portfolyo-Linkin]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:email@adresin.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-### 🛠️ Teknolojiler & Araçlar
+<hr />
 
-**Programlama Dilleri:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🛠️ Yetkinlik Yelpazesi (Modern Tech Stack)
 
-**Yapay Zeka & Veri Bilimi:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI/LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+Aşağıdaki teknolojilerle somut projeler üretiyor, algoritmalar geliştiriyor ve sistemler inşa ediyorum.
 
-**Web & Mobil Geliştirme:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<details open>
+<summary>💻 Programlama Dilleri</summary>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> </a>
+</p>
+</details>
 
-**Siber Güvenlik & İşletim Sistemleri:**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<details>
+<summary>🧠 Yapay Zeka & Veri Bilimi</summary>
+<p align="left">
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/> </a>
+</p>
+</details>
 
-**Araçlar & Veritabanı:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<details open>
+<summary>🌐 Web & Mobil Geliştirme</summary>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="45" height="45"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="45" height="45"/> </a>
+</p>
+</details>
 
----
+<details>
+<summary>🛡️ Siber Güvenlik & Araçlar</summary>
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="kali" width="45" height="45"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="45" height="45"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/> </a>
+</p>
+</details>
 
-### 📊 GitHub İstatistikleri
+<hr />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GitHubKullaniciAdin]&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubKullaniciAdin]&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" height="150" alt="En Çok Kullanılan Diller" />
-</div>
+## 📊 Dinamik Profil İstatistikleri
 
-### 📫 İletişim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/metehan-erkan-b9a52a1b8)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](www.metehandev.site)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[MetehanErkan]&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" alt="Metehan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MetehanErkan]&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&langs_count=8" alt="Metehan's Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[MetehanErkan]&theme=tokyonight&hide_border=true&fire=36BCF7&ring=36BCF7&currStreakNum=36BCF7" alt="GitHub Streak" />
+</p>
+
+## 🐍 Katkı Yılanı (Contribution Snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[MetehanErkan]/[MetehanErkan]/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<hr />
+
+## 🗓️ Son GitHub Aktivitelerim
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=[MetehanErkan]&color=36BCF7&style=flat-square&label=Profil+Görüntülenmesi" alt="Profile Views" />
+</p>
